@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://alesmenzel.github.io/widget-builder",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "lodash": "^4.17.5",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
